@@ -1,3 +1,7 @@
 AWS
 Branches
+<<<<<<< HEAD
 Third
+=======
+Commit changes
+>>>>>>> 2e8a28c7dfd6406f4e7f570e78567d78927b3131
