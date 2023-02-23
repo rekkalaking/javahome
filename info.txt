@@ -8,5 +8,5 @@ fox
 home
 kingdom
 devops
-
+normal
 
